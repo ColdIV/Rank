@@ -1,4 +1,4 @@
-# ranking
+# Rank
 This is my first attempt to make something with classes in python...
 
 Obviously this is not a really big project, I just felt like I might use this one day so I made it.
